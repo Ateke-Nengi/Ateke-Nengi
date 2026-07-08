@@ -1,16 +1,40 @@
-## Hi there 👋
-
-<!--
-**Ateke-Nengi/Ateke-Nengi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Ateke Tamunonengieofori.
+## About Me
+I am a cybersecurity student at NIIT PortHarcourt, passionate about offensive and defensive cybersecurity
+I enjoy building practical cybersecurity projects that demonstrates real world skills in:
+- Penetration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Threat Hunting
+## Projects
+## Project             | Description                                            | Repository
+OSINT Investigation     Conducted an OSINT investigation on a target system      Coming soon
+Log Analysis            Analyzed IIS and windows event logs to identify attacks   Coming soon
+## Skills
+### Operating Systems
+- Windows
+- Linux
+### Networking
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+- TELNET
+### Cybersecurity Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- Git
+- GitHub
+## Certifications
+- ISC2 Certified in Cybersecurity
+- CompTIA Securtiy+ (In progress)
+## Education
+Covenant University
+- NIIT PortHarcourt: Cybersecurity Programme
+## Contact
+- Email: nengiprecious74@gmail.com
