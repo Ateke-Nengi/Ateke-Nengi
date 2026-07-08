@@ -34,7 +34,7 @@ Log Analysis            Analyzed IIS and windows event logs to identify attacks 
 - ISC2 Certified in Cybersecurity
 - CompTIA Securtiy+ (In progress)
 ## Education
-Covenant University
+- Covenant University (In progress)
 - NIIT PortHarcourt: Cybersecurity Programme
 ## Contact
 - Email: nengiprecious74@gmail.com
