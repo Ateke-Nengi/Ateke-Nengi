@@ -1,14 +1,45 @@
-Hi, I'm Ateke Tamunonengieofori.
-## About Me
-I am a cybersecurity student at NIIT PortHarcourt, passionate about offensive and defensive cybersecurity
-I enjoy building practical cybersecurity projects that demonstrates real world skills in:
-- Penetration Testing
-- Log Analysis
-- Malware Analysis
-- Digital Forensics
-- OSINT
-- Threat Hunting
-- Vulnerability Assessment
+<h1 align="center">Hi, I'm Ateke Tamunonengieofori 👋</h1>
+
+<p align="center">
+  <b>Entry-Level Cybersecurity Analyst</b> · SOC Analyst · Log Analysis · Penetration Testing
+</p>
+
+<p align="center">
+  <a href="mailto:nengiprecious74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ateke-Nengi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I am a cybersecurity student at **NIIT Port Harcourt**, passionate about both offensive and defensive security. I enjoy building practical, hands-on projects that demonstrate real-world skills and prepare me for a career in security operations.
+
+Currently seeking **entry-level SOC Analyst / Junior Security Analyst** roles where I can apply my skills in threat detection, log analysis, and incident response.
+
+---
+
+## 🎯 Areas of Focus
+
+| | Domain | Description |
+|-|--------|-------------|
+| 🕵️ | OSINT | Open-source intelligence gathering and target profiling |
+| 🦠 | Malware Analysis | Static and dynamic analysis fundamentals |
+| 🎭 | Social Engineering | Human-based attack vector simulation |
+| 🔍 | Vulnerability Assessment | Scanning, enumeration and reporting |
+| 💀 | Penetration Testing | Full-cycle pen testing and exploitation |
+| 📋 | Log Analysis | Apache, IIS and Windows Event log investigation |
+| 🏹 | Threat Hunting | Proactive identification of threats in log data |
+| 🔬 | Digital Forensics | Evidence collection and analysis |
+
+---
 ## 📁 Projects
 
 | Project | Description | Tools | Status |
