@@ -11,7 +11,6 @@ I enjoy building practical cybersecurity projects that demonstrates real world s
 - Vulnerability Assessment
 ## Projects
 ## 📁 Projects
-## 📁 Projects
 
 | Project | Description | Tools | Status |
 |---------|-------------|-------|--------|
