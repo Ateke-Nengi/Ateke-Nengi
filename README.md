@@ -20,24 +20,35 @@ I enjoy building practical cybersecurity projects that demonstrates real world s
 | 🔍 Vulnerability Assessment | Scanned and assessed a target environment for vulnerabilities and produced a findings report | Coming soon | 🔄 In Progress |
 | 💀 Penetration Testing | Conducted a full penetration test on a target system covering reconnaissance, exploitation, and reporting | Coming soon | 🔄 In Progress |
 | 🔎 Log Analysis | Analysed 3 real-world Apache server logs (10,000+ entries). Detected Shellshock exploits, HTTP tunneling, and port scanning | Coming soon | 🔄 In Progress |
-## Skills
-### Operating Systems
-- Windows
-- Linux
-### Networking
-- TCP/IP
-- DNS
-- HTTP
-- FTP
-- SSH
-- TELNET
-### Cybersecurity Tools
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
-- Git
-- GitHub
+## 🛠️ Tools & Technologies
+
+**💻 Operating Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**🌐 Networking**
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-informational?style=flat-square&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-informational?style=flat-square&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-informational?style=flat-square&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-informational?style=flat-square&logoColor=white)
+![TELNET](https://img.shields.io/badge/TELNET-informational?style=flat-square&logoColor=white)
+
+**🔐 Cybersecurity Tools**
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+
+**⚙️ Dev & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ## Certifications
 - ISC2 Certified in Cybersecurity
 - CompTIA Securtiy+ (In progress)
