@@ -11,12 +11,16 @@ I enjoy building practical cybersecurity projects that demonstrates real world s
 - Vulnerability Assessment
 ## Projects
 ## 📁 Projects
+## 📁 Projects
 
 | Project | Description | Tools | Status |
 |---------|-------------|-------|--------|
-| [🔎 Apache Log Analysis](https://github.com/Ateke-Nengi/log_analysis) | Analysed 3 real-world Apache server logs (10,000+ entries). Detected Shellshock exploits, HTTP tunneling, and port scanning | `grep` `awk` `sort` `uniq` `wc` | ✅ Complete |
-| 🕵️ OSINT Investigation | Conducted an OSINT investigation on a target system | Coming soon | 🔄 In Progress |
-| 📋 IIS & Windows Event Log Analysis | Analysed IIS and Windows event logs to identify attacks | Coming soon | 🔄 In Progress |
+| 🕵️ OSINT Investigation | Conducted an OSINT investigation on a target system to gather intelligence and map attack surface | Coming soon | 🔄 In Progress |
+| 🦠 Malware Analysis | Static and dynamic analysis of malware samples to identify behaviour and indicators of compromise | Coming soon | 🔄 In Progress |
+| 🎭 Social Engineering | Simulated social engineering scenarios to understand human-based attack vectors | Coming soon | 🔄 In Progress |
+| 🔍 Vulnerability Assessment | Scanned and assessed a target environment for vulnerabilities and produced a findings report | Coming soon | 🔄 In Progress |
+| 💀 Penetration Testing | Conducted a full penetration test on a target system covering reconnaissance, exploitation, and reporting | Coming soon | 🔄 In Progress |
+| 🔎 Log Analysis | Analysed 3 real-world Apache server logs (10,000+ entries). Detected Shellshock exploits, HTTP tunneling, and port scanning | Coming soon | 🔄 In Progress |
 ## Skills
 ### Operating Systems
 - Windows
