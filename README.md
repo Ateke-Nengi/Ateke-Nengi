@@ -9,7 +9,6 @@ I enjoy building practical cybersecurity projects that demonstrates real world s
 - OSINT
 - Threat Hunting
 - Vulnerability Assessment
-## Projects
 ## 📁 Projects
 
 | Project | Description | Tools | Status |
