@@ -8,6 +8,7 @@ I enjoy building practical cybersecurity projects that demonstrates real world s
 - Digital Forensics
 - OSINT
 - Threat Hunting
+- Vulnerability Assessment
 ## Projects
 ## Project             | Description                                            | Repository
 OSINT Investigation     Conducted an OSINT investigation on a target system      Coming soon
