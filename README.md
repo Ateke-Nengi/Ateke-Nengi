@@ -10,9 +10,13 @@ I enjoy building practical cybersecurity projects that demonstrates real world s
 - Threat Hunting
 - Vulnerability Assessment
 ## Projects
-## Project             | Description                                            | Repository
-OSINT Investigation     Conducted an OSINT investigation on a target system      Coming soon
-Log Analysis            Analyzed IIS and windows event logs to identify attacks   Coming soon
+## 📁 Projects
+
+| Project | Description | Tools | Status |
+|---------|-------------|-------|--------|
+| [🔎 Apache Log Analysis](https://github.com/Ateke-Nengi/log_analysis) | Analysed 3 real-world Apache server logs (10,000+ entries). Detected Shellshock exploits, HTTP tunneling, and port scanning | `grep` `awk` `sort` `uniq` `wc` | ✅ Complete |
+| 🕵️ OSINT Investigation | Conducted an OSINT investigation on a target system | Coming soon | 🔄 In Progress |
+| 📋 IIS & Windows Event Log Analysis | Analysed IIS and Windows event logs to identify attacks | Coming soon | 🔄 In Progress |
 ## Skills
 ### Operating Systems
 - Windows
