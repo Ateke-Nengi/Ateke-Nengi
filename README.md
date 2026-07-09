@@ -49,11 +49,28 @@ I enjoy building practical cybersecurity projects that demonstrates real world s
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-## Certifications
-- ISC2 Certified in Cybersecurity
-- CompTIA Securtiy+ (In progress)
-## Education
-- Covenant University (In progress)
-- NIIT PortHarcourt: Cybersecurity Programme
-## Contact
-- Email: nengiprecious74@gmail.com
+## 🏆 Certifications
+
+| Badge | Certification | Status |
+|-------|--------------|--------|
+| ![ISC2](https://img.shields.io/badge/ISC2-006400?style=flat-square&logo=isc2&logoColor=white) | ISC2 Certified in Cybersecurity (CC) | ✅ Completed |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-C8202?style=flat-square&logo=comptia&logoColor=white) | CompTIA Security+ | 🔄 In Progress |
+
+---
+
+## 🎓 Education
+
+| Institution | Programme | Status |
+|-------------|-----------|--------|
+| 🏛️ Covenant University | Computer Science | 🔄 In Progress |
+| 🏫 NIIT Port Harcourt | Cybersecurity Programme | ✅ Completed |
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:nengiprecious74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nengiprecious74@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
