@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ateke Tamunonengieofori 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi,%20I'm%20Ateke%20Tamunonengieofori&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entry-Level%20Cybersecurity%20Analyst%20%7C%20SOC%20%7C%20Log%20Analysis&descAlignY=55&descSize=18" />
+</p>
 
 <p align="center">
   <b>Entry-Level Cybersecurity Analyst</b> · SOC Analyst · Log Analysis · Penetration Testing
@@ -104,3 +106,4 @@ Currently seeking **entry-level SOC Analyst / Junior Security Analyst** roles wh
     <img src="https://img.shields.io/badge/Gmail-nengiprecious74@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
