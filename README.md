@@ -46,7 +46,7 @@ Currently seeking **entry-level SOC Analyst / Junior Security Analyst** roles wh
 
 | Project | Description | Tools | Status |
 |---------|-------------|-------|--------|
-| 🕵️ OSINT Investigation | Conducted an OSINT investigation on a target system to gather intelligence and map attack surface | Google Dorking, WHOIS, Wayback Machine, Nmap, Maltego | ✅ [Complete](https://github.com/Ateke-Nengi/Enterprise-Intelligence-Assessment-OSINT-) |
+| 🕵️ OSINT Investigation | Conducted an OSINT investigation on a target system to gather intelligence and map attack surface | Google Dorking, OSINT Framework, WHOIS, Wayback Machine, Nmap, Nslookup, Maltego | ✅ [Complete](https://github.com/Ateke-Nengi/Enterprise-Intelligence-Assessment-OSINT-) |
 | 🦠 Malware Analysis | Static and dynamic analysis of malware samples to identify behaviour and indicators of compromise | Coming soon | 🔄 In Progress |
 | 🎭 Social Engineering | Simulated social engineering scenarios to understand human-based attack vectors | Coming soon | 🔄 In Progress |
 | 🔍 Vulnerability Assessment | Scanned and assessed a target environment for vulnerabilities and produced a findings report | Coming soon | 🔄 In Progress |
