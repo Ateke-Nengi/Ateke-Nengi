@@ -51,7 +51,7 @@ Currently seeking **entry-level SOC Analyst / Junior Security Analyst** roles wh
 | 🎭 Social Engineering | Simulated social engineering scenarios to understand human-based attack vectors | Coming soon | 🔄 In Progress |
 | 🔍 Vulnerability Assessment | Scanned and assessed a target environment for vulnerabilities and produced a findings report | Coming soon | 🔄 In Progress |
 | 💀 Penetration Testing | Conducted a full penetration test on a target system covering reconnaissance, exploitation, and reporting | Coming soon | 🔄 In Progress |
-| 🔎 Log Analysis | Analysed 3 real-world Apache server logs (10,000+ entries). Detected Shellshock exploits, HTTP tunneling, and port scanning | Coming soon | 🔄 In Progress |
+| 🔎 Log Analysis | Analysed 3 real-world Apache server logs (10,000+ entries). Detected Shellshock exploits, HTTP tunneling, and port scanning | grep, awk, sed, sort, uniq, Kali Linux | ✅ [Complete](https://github.com/Ateke-Nengi/log_analysis) |
 ## 🛠️ Tools & Technologies
 
 **💻 Operating Systems**
