@@ -52,7 +52,7 @@ Currently seeking **entry-level SOC Analyst / Junior Security Analyst** roles wh
 | 🔍 Vulnerability Assessment | Scanned and assessed a target environment for vulnerabilities and produced a findings report | Coming soon | 🔄 In Progress |
 | 💀 Penetration Testing | Conducted a full penetration test on a target system covering reconnaissance, exploitation, and reporting | Coming soon | 🔄 In Progress |
 | 🔎 Log Analysis | Analysed 3 real-world Apache server logs (10,000+ entries). Detected Shellshock exploits, HTTP tunneling, and port scanning | grep, awk, sed, sort, uniq, Kali Linux | ✅ [Complete](https://github.com/Ateke-Nengi/log_analysis) |
-| 🕵️ Digital Forensics | Conducted a full forensic examination of a USB storage device image (cartel.img) under NIST SP 800-86 methodology — evidence verification, file carving, anti-forensic wipe detection, and timeline reconstruction | Foremost, Binwalk, Sleuth Kit, md5sum/sha256sum, MITRE ATT&CK mapping | ✅ [Complete](https://github.com/Ateke-Nengi/YOUR-REPO-NAME) |
+| 🕵️ Digital Forensics | Conducted a full forensic examination of a USB storage device image (cartel.img) under NIST SP 800-86 methodology — evidence verification, file carving, anti-forensic wipe detection, and timeline reconstruction | Foremost, Binwalk, Sleuth Kit, md5sum/sha256sum, MITRE ATT&CK mapping | ✅ [Complete](https://github.com/Ateke-Nengi/digital-forensics-ctf) |
 ## 🛠️ Tools & Technologies
 
 **💻 Operating Systems**
