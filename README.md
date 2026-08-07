@@ -59,31 +59,41 @@ I'm currently seeking an **entry-level SOC Analyst / Junior Security Analyst** r
 
 **💻 Operating Systems**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **🌐 Networking**
 
-![TCP/IP](https://img.shields.io/badge/TCP/IP-informational?style=flat-square&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-informational?style=flat-square&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-informational?style=flat-square&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![FTP](https://img.shields.io/badge/FTP-informational?style=flat-square&logoColor=white)
-![TELNET](https://img.shields.io/badge/TELNET-informational?style=flat-square&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-informational?style=for-the-badge&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-informational?style=for-the-badge&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-informational?style=for-the-badge&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-informational?style=for-the-badge&logoColor=white)
+![TELNET](https://img.shields.io/badge/TELNET-informational?style=for-the-badge&logoColor=white)
 
-**🔐 Cybersecurity Tools**
+**🔐 Cybersecurity & Forensics Tools**
 
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Sleuth Kit](https://img.shields.io/badge/The_Sleuth_Kit-2C3E50?style=for-the-badge&logoColor=white)
+![Foremost](https://img.shields.io/badge/Foremost-2C3E50?style=for-the-badge&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-2C3E50?style=for-the-badge&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white)
+![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-394EFF?style=for-the-badge&logoColor=white)
 
-**⚙️ Dev & Version Control**
+**⌨️ Programming & Scripting**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**⚙️ Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## 🏆 Certifications
 
 | Badge | Certification | Status |
