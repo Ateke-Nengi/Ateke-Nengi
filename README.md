@@ -30,18 +30,19 @@ I'm currently seeking an **entry-level SOC Analyst / Junior Security Analyst** r
 
 ## 🎯 Areas of Focus
 
-| | Domain | Description |
-|-|--------|-------------|
-| 🕵️ | OSINT | Open-source intelligence gathering and target profiling |
-| 🦠 | Malware Analysis | Static and dynamic analysis fundamentals |
-| 🎭 | Social Engineering | Human-based attack vector simulation |
-| 🔍 | Vulnerability Assessment | Scanning, enumeration and reporting |
-| 💀 | Penetration Testing | Full-cycle pen testing and exploitation |
-| 📋 | Log Analysis | Apache, IIS and Windows Event log investigation |
-| 🏹 | Threat Hunting | Proactive identification of threats in log data |
-| 🔬 | Digital Forensics | Evidence collection and analysis |
+|    | Domain                   | Description                                                    |
+| --- | ------------------------ | ---------------------------------------------------------------- |
+| 🕵️ | OSINT                    | Gathering and correlating open-source intelligence to map a target's digital footprint |
+| 🦠  | Malware Analysis         | Identifying malicious behavior and indicators of compromise through static and dynamic analysis |
+| 🎭  | Social Engineering       | Simulating human-based attack vectors to assess organizational risk |
+| 🔍  | Vulnerability Assessment | Scanning, enumerating, and reporting security gaps in target environments |
+| 💀  | Penetration Testing      | Executing full-cycle engagements from reconnaissance through exploitation and reporting |
+| 📋  | Log Analysis             | Investigating Apache, IIS, and Windows Event logs to detect attacker activity |
+| 🏹  | Threat Hunting           | Proactively surfacing threats hidden in log and system data |
+| 🔬  | Digital Forensics        | Recovering and analyzing digital evidence under established forensic methodology |
 
 ---
+
 ## 📁 Projects
 
 | Project | Description | Tools | Status |
