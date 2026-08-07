@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Entry-Level Cybersecurity Analyst</b> · SOC Analyst · Log Analyst · Penetration Testing
+  <b>Entry-Level Cybersecurity Analyst · SOC Analyst · Log Analyst · Penetration Testing . Digital Forensic Examiner</b>
 </p>
 
 <p align="center">
