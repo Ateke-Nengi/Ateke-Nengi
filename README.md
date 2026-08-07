@@ -22,10 +22,9 @@
 
 ## 🧑‍💻 About Me
 
-I am a cybersecurity student at **NIIT Port Harcourt**, passionate about both offensive and defensive security. I enjoy building practical, hands-on projects that demonstrate real-world skills and prepare me for a career in security operations.
+Cybersecurity analyst in training at NIIT Port Harcourt, focused on digital forensics, log analysis, and SOC operations. I build hands-on, evidence-backed projects rather than just studying theory — from full forensic examinations under NIST SP 800-86 methodology to log-based threat detection across real-world datasets.
 
-Currently seeking **entry-level SOC Analyst / Junior Security Analyst** roles where I can apply my skills in threat detection, log analysis, and incident response.
-
+I'm currently seeking an entry-level SOC Analyst / Junior Security Analyst role where I can bring that same rigor to real incident detection, investigation, and response.
 ---
 
 ## 🎯 Areas of Focus
