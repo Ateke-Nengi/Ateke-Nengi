@@ -97,16 +97,14 @@ I'm currently seeking an **entry-level SOC Analyst / Junior Security Analyst** r
 ## 🏆 Certifications
 
 | Badge | Certification | Status |
-|-------|--------------|--------|
-| ![ISC2](https://img.shields.io/badge/ISC2-006400?style=flat-square&logo=isc2&logoColor=white) | ISC2 Certified in Cybersecurity (CC) | ✅ Completed |
-| ![CompTIA](https://img.shields.io/badge/CompTIA-C8202?style=flat-square&logo=comptia&logoColor=white) | CompTIA Security+ | 🔄 In Progress |
-
----
+|---|---|---|
+| ![ISC2](https://img.shields.io/badge/ISC2-006400?style=for-the-badge&logo=isc2&logoColor=white) | ISC2 Certified in Cybersecurity (CC) | ✅ Completed |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=for-the-badge&logo=comptia&logoColor=white) | CompTIA Security+ | 🔄 In Progress |
 
 ## 🎓 Education
 
 | Institution | Programme | Status |
-|-------------|-----------|--------|
+|---|---|---|
 | 🏛️ Covenant University | Computer Science | 🔄 In Progress |
 | 🏫 NIIT Port Harcourt | Cybersecurity Programme | ✅ Completed |
 
